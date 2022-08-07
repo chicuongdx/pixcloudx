@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "572633838012",
+    "project_id": "pixcloudx",
+    "storage_bucket": "pixcloudx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572633838012:android:e42be83415a4efe5947bb9",
+        "android_client_info": {
+          "package_name": "com.example.pixcloudx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572633838012-cie9j72svc5kamdustm5tdettiv3eekt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXQ7HLzuKOfilr7DQYRzic1ao5_nfLcXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572633838012-cie9j72svc5kamdustm5tdettiv3eekt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
